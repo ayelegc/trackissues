@@ -1,4 +1,4 @@
-import { Skeleton } from "../../components";
+import { Skeleton } from "../../components"; // Adjust the path based on your directory structure
 import { Table } from "@radix-ui/themes";
 import IssueAction from "./IssueAction";
 
